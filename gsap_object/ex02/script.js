@@ -18,4 +18,7 @@ document.querySelectorAll(".box").forEach(function(box) {
         ease: "back.in"
       });
     });
-  });
+});
+
+
+
